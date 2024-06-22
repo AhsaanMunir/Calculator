@@ -1,5 +1,4 @@
-# Calculator
-#The code is for calculator using html and javascrpit
+# Calculator-index.html
 <!DOCTYPE html>
 <head>
 <title>Modern Calculator</title>
